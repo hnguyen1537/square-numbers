@@ -13,7 +13,7 @@ const numbers = prompt(
  * For example: if numbers = [1, 2, 3], the result should be [1,
  * 4, 9]
  */
-const result = undefined;
+const result = numbers.map(x => x*x);
 
 console.log(result);
 

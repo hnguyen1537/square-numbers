@@ -1,8 +1,8 @@
 ## remove-elements
 
-FIRST NAME:
+FIRST NAME: Trinh 
 
-LAST NAME:
+LAST NAME: Nguyen
 
 Go to `index.js` and finish the TODO.
 
